@@ -3,8 +3,9 @@
 ================================================================== */
 
 nav {
-  width: 64%;
+  width: 75%;
   display: inline-block;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 nav ul {
@@ -39,11 +40,11 @@ nav li a {
 ================================================================== */
 
 header {
-  text-align: right;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  text-align: center;
+  padding-bottom: 10px;
   display: flex;
   align-items: center;
+  background-color: #181a1b;
 }
 
 header .blog-name {

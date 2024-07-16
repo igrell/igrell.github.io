@@ -8,30 +8,33 @@
   --small: 14px;
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%); /* white */
-  --backround-color: hsl(141, 50%, 54%); /* greenish */
+  --background-color: hsl(141, 50%, 54%); /* greenish */
 }
 
 /* ==================================================================
     DEFAULT FONT AND LAYOUT
 ================================================================== */
 
+
 html {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: var(--normal);
+  font-size: var(--small);
   color: var(--text-color);
-  background-color: var(--backround-color);
 }
 
 body {
-   /* background-color: var(--backround-color); */
+  background-image: url('../imgs/watashinokan.png');
 }
 
-/* body p {
-} */
 
 /* ==================================================================
     BASIC GRID FOR PROFILE PIC
 ================================================================== */
+
+.franklin-content {
+    background-color: #181a1b;
+}
+
 
 .franklin-content .row {
   display: block;
@@ -116,7 +119,7 @@ body {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 39px; }
+.franklin-content h1 { font-size: 30px; }
 .franklin-content h2 { font-size: 22px; }
 .franklin-content h3 { font-size: 20px; }
 
@@ -130,10 +133,7 @@ h6 {
 }
 
 .franklin-content h1 {
-  padding-bottom: 0.5em;
-  border-bottom: 3px double lightgrey;
-  margin-top: 1.5em;
-  margin-bottom: 1em;
+  padding-top: 1.5em;
 }
 
 .franklin-content h2 {
@@ -141,6 +141,10 @@ h6 {
   border-bottom: 1px solid lightgrey;
   margin-top: 2em;
   margin-bottom: 1em;
+}
+
+.franklin-content h5 {
+  border-bottom: 3px double lightgrey;
 }
 
 .franklin-content h1 a { color: inherit; }
