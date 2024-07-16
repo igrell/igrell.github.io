@@ -7,7 +7,8 @@
   --output-background: hsl(0, 0%, 98%);
   --small: 14px;
   --normal: 19px;
-  --text-color: hsv(0, 0%, 20%);
+  --text-color: hsv(0, 0%, 20%); /* white */
+  --backround-color: hsl(141, 50%, 54%); /* greenish */
 }
 
 /* ==================================================================
@@ -18,7 +19,15 @@ html {
   font-family: Helvetica, Arial, sans-serif;
   font-size: var(--normal);
   color: var(--text-color);
+  background-color: var(--backround-color);
 }
+
+body {
+   /* background-color: var(--backround-color); */
+}
+
+/* body p {
+} */
 
 /* ==================================================================
     BASIC GRID FOR PROFILE PIC
@@ -107,7 +116,7 @@ html {
     TITLES
 ================================================================== */
 
-.franklin-content h1 { font-size: 24px; }
+.franklin-content h1 { font-size: 39px; }
 .franklin-content h2 { font-size: 22px; }
 .franklin-content h3 { font-size: 20px; }
 
