@@ -1,3 +1,7 @@
+:root {
+  --nav-text-color: black;
+}
+
 /* ==================================================================
     Nav
 ================================================================== */
@@ -19,7 +23,7 @@ nav li {
 }
 
 nav li a {
-  color: #004de6;
+  color: var(--nav-text-color);
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
@@ -44,7 +48,7 @@ header {
   padding-bottom: 10px;
   display: flex;
   align-items: center;
-  background-color: #181a1b;
+  background-color: var(--background-color);
 }
 
 header .blog-name {
@@ -62,8 +66,7 @@ header .blog-name a {
 }
 
 header li a:hover {
-  color: black;
-  border-bottom: 2px solid black;
+  color: red;
 }
 
 #menu-icon {
@@ -77,15 +80,15 @@ header li a:hover {
 
 @media (max-width: 480px) {
   header {
-    padding-left: 6%;
-    padding-right: 6%;
+    padding-left: 1%;
+    padding-right: 1%;
   }
 }
 
 @media (min-width: 481px) {
   header {
-    padding-left: 12.5%;
-    padding-right: 12.5%;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 }
 

@@ -8,7 +8,7 @@
   --small: 14px;
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%); /* white */
-  --background-color: hsl(141, 50%, 54%); /* greenish */
+  --background-color: #eee9e9;
 }
 
 /* ==================================================================
@@ -23,18 +23,14 @@ html {
 }
 
 body {
-  background-image: url('/assets/watashinokan.png');
+  background-image: url('/assets/backgrounds/monogatari7.png');
+  background-attachment: fixed;
 }
 
 
 /* ==================================================================
     BASIC GRID FOR PROFILE PIC
 ================================================================== */
-
-.franklin-content {
-    background-color: #181a1b;
-}
-
 
 .franklin-content .row {
   display: block;
@@ -93,9 +89,11 @@ body {
 
 .franklin-content {
   position: relative;
-  padding-left: 12.5%;
-  padding-right: 12.5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 1%;
   line-height: 1.35em;
+  background-color: var(--background-color);
 }
 
 /* On wide screens, fix content width to a max value. */
