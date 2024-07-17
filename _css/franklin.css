@@ -7,8 +7,10 @@
   --output-background: hsl(0, 0%, 98%);
   --small: 14px;
   --normal: 19px;
-  --text-color: hsv(0, 0%, 20%); /* white */
-  --background-color: #eee9e9;
+  --background-color-light: #eee9e9;
+  --text-color-light: black;
+  --background-color-dark: #2a2020;
+  --text-color-dark: white;
   --base-font: "Lucida Console", Monaco, monospace;
 }
 
@@ -94,8 +96,10 @@ body {
   padding-right: 5%;
   padding-bottom: 1%;
   line-height: 1.35em;
-  background-color: var(--background-color);
+  background-color: var(--background-color-dark);
+  border-radius: 10px;
   opacity: 95%;
+  color: var(--text-color-dark);
 }
 
 /* On wide screens, fix content width to a max value. */

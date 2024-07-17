@@ -1,5 +1,5 @@
 :root {
-  --nav-text-color: black;
+  --nav-text-color: white;
 }
 
 /* ==================================================================
@@ -48,8 +48,8 @@ header {
   padding-bottom: 10px;
   display: flex;
   align-items: center;
-  background-color: var(--background-color);
-  opacity: 95%;
+  border-radius: 10px;
+  background: rgba(42, 32, 32, 0.8)
 }
 
 header .blog-name {
