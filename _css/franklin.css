@@ -9,6 +9,7 @@
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%); /* white */
   --background-color: #eee9e9;
+  --base-font: "Lucida Console", Monaco, monospace;
 }
 
 /* ==================================================================
@@ -94,6 +95,7 @@ body {
   padding-bottom: 1%;
   line-height: 1.35em;
   background-color: var(--background-color);
+  opacity: 95%;
 }
 
 /* On wide screens, fix content width to a max value. */
@@ -132,6 +134,7 @@ h6 {
 
 .franklin-content h1 {
   padding-top: 1.5em;
+  font-family: var(--base-font);
 }
 
 .franklin-content h2 {

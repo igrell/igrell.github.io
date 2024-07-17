@@ -9,7 +9,7 @@
 nav {
   width: 75%;
   display: inline-block;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-family: var(--base-font);
 }
 
 nav ul {
@@ -49,6 +49,7 @@ header {
   display: flex;
   align-items: center;
   background-color: var(--background-color);
+  opacity: 95%;
 }
 
 header .blog-name {
