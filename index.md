@@ -1,25 +1,32 @@
 @def title = "Conundrummer"
 @def tags = ["syntax", "code"]
 
-# 'Tis a post
-##### 16 July 2024
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in sapien eu arcu cursus molestie. Maecenas ullamcorper augue sed ex tempus tempor. Vestibulum scelerisque fringilla quam vitae suscipit. Nullam massa ipsum, consectetur sed eros ut, malesuada maximus eros. Integer convallis, lectus sed rhoncus tincidunt, nibh felis gravida nunc, sit amet dapibus enim enim vitae tellus. Ut pellentesque ultricies dolor, vitae elementum massa laoreet vel. Nullam placerat massa a sem interdum, eu ultricies justo tincidunt. Vestibulum nec rutrum massa. Nunc tincidunt, justo ac rutrum porttitor, leo risus vestibulum odio, non ullamcorper enim libero sed purus.
-
-Fusce non dui leo. Ut a porttitor dui. Sed lacinia, dui eu tempus hendrerit, magna justo dictum massa, eu porttitor tellus orci et nulla. Sed tristique quam id augue ornare, eu scelerisque turpis sodales. Nulla mauris quam, bibendum ut nunc eget, pulvinar aliquam ex. Donec ac lorem scelerisque ante volutpat tristique nec a urna. Duis luctus ut elit ut posuere. Mauris ultricies, ex et posuere volutpat, dui nisi tincidunt justo, sed interdum ante nunc a lorem. Ut volutpat neque ipsum, ut sagittis lacus viverra at. Quisque malesuada orci ut nisi accumsan aliquet. Mauris ut urna a augue sodales rhoncus.
-
-Cras faucibus aliquam euismod. Proin commodo tristique lorem, at efficitur massa ullamcorper ac. Donec in finibus nulla. Sed interdum placerat sem. Integer sed elit ullamcorper, pharetra nisl sed, mattis mauris. Curabitur fringilla eros id purus elementum, ut eleifend eros tincidunt. Donec tincidunt sapien in libero aliquet, rhoncus dapibus tellus ornare. Aliquam faucibus at dui eget tempus. Morbi lobortis accumsan libero nec vehicula. Donec mollis quam libero, nec molestie arcu faucibus a. Nullam non vehicula metus. Maecenas sed leo vel justo viverra pellentesque nec quis lacus. Nam lobortis, metus nec aliquet convallis, tellus nunc porta urna, id pellentesque enim sapien sit amet erat. Sed eget elementum eros, sed vulputate urna.
-
-Phasellus et porttitor nibh, placerat convallis sapien. Sed mattis lectus et quam vestibulum porta. Nam suscipit lectus sed dui vestibulum suscipit. Curabitur nisl arcu, consequat eu erat in, maximus luctus lacus. Vivamus placerat pulvinar suscipit. Suspendisse sagittis arcu neque, eu varius est venenatis vel. In quis mi enim. Nunc vitae porttitor neque, vitae pretium nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam consectetur orci nec dui scelerisque fringilla. Etiam consequat vestibulum ipsum sed scelerisque.
-
-Nunc hendrerit libero vel cursus consectetur. Sed non nulla condimentum eros suscipit mattis. Maecenas commodo nisl vitae purus consequat accumsan. Mauris fermentum volutpat diam ac pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent faucibus quam sed lacus molestie efficitur. Phasellus feugiat consectetur lorem vitae lacinia.
-
-Curabitur vitae tellus in nisl vehicula malesuada. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse tempor lacus at ullamcorper imperdiet. Aenean tellus quam, aliquam sit amet imperdiet eu, tincidunt a lorem. Vivamus a felis non sem ornare condimentum. Nunc nisl diam, fringilla ut eleifend a, fringilla ut purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer ut tellus imperdiet, rhoncus justo sed, aliquet justo. Integer rhoncus nulla sit amet tortor fermentum vehicula. Aenean et justo eleifend, fringilla arcu quis, tempus odio. Ut sed vestibulum neque. Integer id odio ipsum. Donec luctus quis nulla sit amet venenatis. Nam ultricies sagittis massa, ultricies auctor felis fringilla eget. Ut nec leo nec ligula scelerisque sollicitudin sit amet quis augue. Sed at nunc lorem.
-
-Maecenas convallis eros nisi, non elementum justo luctus vel. Proin laoreet tristique nibh ac elementum. Donec id mauris metus. Pellentesque vitae faucibus diam. Aenean sed sagittis velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras et consequat sapien, blandit aliquet lorem. Suspendisse eget tellus non augue pulvinar pulvinar ut in tortor. Ut ultrices vestibulum erat, non fringilla ante sagittis dignissim. Maecenas sem nulla, ullamcorper sed ultrices non, dignissim a enim. Vestibulum libero nulla, hendrerit ac commodo id, tincidunt ac mauris. Fusce tellus lectus, ultricies et justo eu, lacinia facilisis felis. Suspendisse ultricies mi vitae diam dapibus sollicitudin. Aliquam mattis eget ligula nec hendrerit. Proin mattis fermentum velit.
-
-Suspendisse aliquam, neque a dapibus egestas, eros velit bibendum ex, id laoreet lorem odio ut sem. Morbi sit amet tincidunt nisi, nec consequat ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum leo a varius malesuada. Aenean mauris libero, tempor ut tortor a, faucibus pellentesque ante. Suspendisse id leo quis est dapibus dictum vitae non arcu. Donec cursus erat sed accumsan viverra. Fusce ultricies posuere euismod. Curabitur pulvinar imperdiet vehicula. Duis dictum, purus in tempus tincidunt, risus nunc hendrerit justo, finibus blandit urna arcu vitae erat. Ut cursus laoreet elit, sed consectetur lacus laoreet quis.
-
-Vivamus et leo pretium, iaculis sapien sed, commodo metus. Maecenas aliquet velit orci, eget malesuada justo elementum a. Sed eleifend mi ut justo venenatis, quis mollis erat posuere. Mauris vel magna et arcu aliquet ullamcorper at sit amet ex. Pellentesque vulputate dictum nulla. Phasellus ut enim dapibus, dapibus dolor vel, vulputate libero. Pellentesque mattis tortor at lorem ornare, sed vulputate libero vestibulum. Donec placerat vestibulum risus, placerat aliquam odio suscipit quis. Maecenas ultrices placerat aliquam. Sed sed nisi lectus. Vivamus magna ligula, ultrices quis nunc et, congue laoreet massa.
-
-Aliquam lectus lacus, faucibus sit amet mi ac, faucibus placerat elit. Aliquam eu elit non justo accumsan laoreet. Donec in lacinia mi, in auctor arcu. Phasellus ac ex elit. Aenean dignissim est maximus euismod venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam ultricies tristique sapien nec ornare. Vivamus lacus dolor, egestas id eleifend ut, maximus a nisi. Vivamus nibh eros, malesuada vitae tincidunt suscipit, vulputate quis urna. 
+# Reading with friends
+##### 28 July 2024
+    Lately I've been once again reminded what an important and delightful
+    activity reading together with friends is for me. While on a few day's
+    visit at my friend's house in a beautiful small city in the Kashubia region
+    of Poland; city's by the lake, and the house's terrace opens right up on
+    it. These few days we could spend the afternoons sitting side by side, with
+    the sun reflected from the lake glittering delicately on our books as we
+    read in a mutually comfortable silence. I noticed reading with another
+    person, in opposition to studying or doing other solo activities, enables
+    me to focus much better on the activity itself (albeit interrupted by my
+    inescapable need of providing anecdotes on various topics or of commenting
+    on a particularly gripping fragment I'm just reading). It really is a
+    profound feeling, to be able to enjoy being together solely with a work of
+    literature (and in turn, of course, with oneself's mind's reflection of
+    that work) while at the same time sharing a moment of mutuality.
+By the way, the book I've been reading then is 
+*[Six Stars with a Crooked Neck](https://www.goodreads.com/book/show/136613048-six-stars-with-a-crooked-neck)*
+by Pema Bhum - an amazingly beautifully crafted account of the Chinese Cultural
+Revolution in Tibet, by a contemporary Tibetan author who has fled the country
+in need of preserving the Tibetan literature and culture violently supressed by
+the CCP. I've read it in Polish (*[Opowiadania o rewolucji kulturalnej w
+Tybecie](https://piw.pl/historia/332-opowiadania-o-rewolucji-kulturalnej-w-tybecie-9788381960397.html)*, PIW 2020) and am not sure if the selection chosen for the Polish
+translation has been exactly the same in the English version. Moreover, Polish
+edition was actually a double translation from English, which usually I'd think
+of as too much, but I must say that this time the final result was quite
+splendid. All in all the short stories included are extraordinary pieces and I
+thoroughlly reccommend it.
+    
