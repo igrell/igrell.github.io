@@ -4,7 +4,7 @@
 # Reading with friends
 ##### 28 July 2024
     Lately I've been once again reminded what an important and delightful
-    activity reading together with friends is for me. While on a few day's
+    activity reading together with friends is for me. While on a few days
     visit at my friend's house in a beautiful small city in the Kashubia region
     of Poland; city's by the lake, and the house's terrace opens right up on
     it. These few days we could spend the afternoons sitting side by side, with
