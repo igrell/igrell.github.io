@@ -28,5 +28,5 @@ translation has been exactly the same in the English version. Moreover, Polish
 edition was actually a double translation from English, which usually I'd think
 of as too much, but I must say that this time the final result was quite
 splendid. All in all the short stories included are extraordinary pieces and I
-thoroughlly reccommend it.
+thoroughly reccommend it.
     
